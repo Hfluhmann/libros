@@ -8,3 +8,5 @@ Para ejecutarlo, se deben usar los siguientes comandos:
 2. Ejecución `java Main`
 
 Para la prueba de cobertura, usar IDE eclipse con la extension eclEmma 
+
+No estan hechas las pruebas unitarias
